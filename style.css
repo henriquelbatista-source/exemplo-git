@@ -11,3 +11,7 @@ body{
     height: 100vh;
     background-color: blueviolet;
 }
+a{
+    text-decoration: none;
+    color: inherit;
+}
